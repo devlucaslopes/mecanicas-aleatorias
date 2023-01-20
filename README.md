@@ -4,6 +4,7 @@
 
 ## Projetos
 *Alguns projetos foram usados em mais de um vídeo.*
+- [Gliding](https://github.com/devlucaslopes/Gliding)
 - [Ammo Reload](https://github.com/devlucaslopes/Ammo-Reload)
 - [Player Shield](https://github.com/devlucaslopes/Player-Shield)
 - [Shovel Knight Platform](https://github.com/devlucaslopes/Shovel-Knight-Platform)
